@@ -8,6 +8,6 @@ Instructions:
   - Select name and color to be presented on the leaderboard for the second player.
   - First player chooses and confirms a combination.
   - Second player have ten attempts to guess the combination.
-  - The console window shows the leaderboard and the game is finished.
+  - Upon guessing the answer, or running out of attempts, the console window shows the leaderboard and the game is finished.
 
 Use the arrow keys to change colors.

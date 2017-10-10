@@ -1,5 +1,5 @@
 # Mastermind-CSharpPython
-Made with: VS console application with C# and IronPython.
+Made with: VS console application and C# and IronPython.
 
 Features music with IrrKlang and a SQLite database with leaderboards.
 
